@@ -123,7 +123,7 @@ Focus on impact, not noise.
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/anirudhkrishnatreya/)">
+  <a href="[https://www.linkedin.com/in/anirudhkrishnatreya/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:sharmanirudh535@gmail.com">
