@@ -126,7 +126,7 @@ Focus on impact, not noise.
   <a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/anirudhkrishnatreya/)">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:sharmanirudh535@gmail.com">
     <img src="https://img.shields.io/badge/Email-Build%20Something-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
